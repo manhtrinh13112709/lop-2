@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Lớp Học Vui Vẻ Lớp 2",
+  "description": "Một ứng dụng học tập trực tuyến dành cho học sinh lớp 2 với các câu hỏi trắc nghiệm vui nhộn, bám sát chương trình học. Giao diện sinh động, âm thanh hấp dẫn và phần thưởng khích lệ giúp bé hứng thú học tập.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
